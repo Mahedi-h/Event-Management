@@ -14,131 +14,9 @@
 </head>
 
 <body cz-shortcut-listen="true">
-    <div class="collapse" id="searcharea">
-        <div class="input-group">
-            <input type="text" class="form-control" placeholder="Search for...">
-            <span class="input-group-btn">
-    <button class="btn tp-btn-primary" type="button">Search</button>
-    </span> </div>
-    </div>
-    <div class="top-bar">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 top-message">
-                    <p>Welcome to Wedding Vendor.</p>
-                </div>
-                <div class="col-md-6 top-links">
-                    <ul class="listnone">
-                        <li><a href="http://jituchauhan.com/wedding/wedding-new/faq.html"> Help </a></li>
-                        <li><a href="http://jituchauhan.com/wedding/wedding-new/pricing-plan.html">Pricing</a></li>
-                        <li><a href="http://jituchauhan.com/wedding/wedding-new/signup-couple.html" class=" ">I m couple</a></li>
-                        <li><a href="http://jituchauhan.com/wedding/wedding-new/signup-vendor.html">Are you vendor?</a></li>
-                        <li><a href="http://jituchauhan.com/wedding/wedding-new/login-page.html">Log in</a></li>
-                        <li>
-                            <a role="button" data-toggle="collapse" href="#searcharea" aria-expanded="false" aria-controls="searcharea"> <i class="fa fa-search"></i> </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div id="sticky-wrapper" class="sticky-wrapper" style="height: 71px;"><div class="header" style="width: 1351px;">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 logo">
-                    <div class="navbar-brand">
-                        <a href="http://jituchauhan.com/wedding/wedding-new/index.html"><img src="./about_files/logo.png" alt="Wedding Vendors" class="img-responsive"></a>
-                    </div>
-                </div>
-                <div class="col-md-9">
-                    <div class="navigation" id="navigation"><div id="menu-button">Menu</div>
-                        <ul>
-                            <li class="active has-sub"><span class="submenu-button"></span><a href="http://jituchauhan.com/wedding/wedding-new/index.html">Home</a>
-                                <ul>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/index.html" title="Home" class="animsition-link">Home</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/index-2.html" title="Home v.2" class="animsition-link">Home v.2</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-sub"><span class="submenu-button"></span><a href="#">Listing</a>
-                                <ul>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-listing-row-map.html" title="Home" class="animsition-link">List / Half Map</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-listing-sidebar.html" title="Home" class="animsition-link">List / Sidebar Left</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-listing-no-sidebar.html" title="Home" class="animsition-link">List / No Sidebar</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-listing-top-map.html" title="Home" class="animsition-link">Top Map / List</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-list-4-colmun.html" title="Home" class="animsition-link">4 Column List</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-list-3-colmun.html" title="Home" class="animsition-link">3 Column List</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-list-horizontal.html" title="Home" class="animsition-link">Horizontal List </a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-list-new.html" title="Home" class="animsition-link">List Variations </a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-listing-bubba.html">Bubba Style Listing</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-listing-ocean.html">Ocean Style Listing</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-sub"><span class="submenu-button"></span><a href="http://jituchauhan.com/wedding/wedding-new/vendor-details.html">Vendor</a>
-                                <ul>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-details.html">Vendor Simple</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-details-tabbed.html">Vendor Tabbed</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/vendor-profile.html">Vendor Profile</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-sub"><span class="submenu-button"></span><a href="http://jituchauhan.com/wedding/wedding-new/venue-listing.html" title="Home" class="animsition-link">Suppliers</a>
-                                <ul>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/venue-listing.html">Venue List</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/photography-listing.html">Photographer List</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/dresses-listing.html">Dresses List</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/florist-listing.html">Florist List</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/videography-listing.html">Videography List</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/cake-listing.html">Cake List</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/music-listing.html">Music List</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-sub"><span class="submenu-button"></span><a href="#">Planning Tools</a>
-                                <ul>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/planning-to-do.html">To Do List</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/planning-budget.html">Budget Planner</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/couple-landing-page.html">Couple Signup (LP)</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/couple-dashboard.html">Couple Admin</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/dashboard-vendor.html">Vendor Admin</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-sub"><span class="submenu-button"></span><a href="#">Features</a>
-                                <ul>
-                                    <li class="has-sub"><span class="submenu-button"></span><a href="#">Blog</a>
-                                        <ul>
-                                            <li><a href="http://jituchauhan.com/wedding/wedding-new/blog.html">Blog Listing</a></li>
-                                            <li><a href="http://jituchauhan.com/wedding/wedding-new/blog-single.html">Blog Single</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="">About us</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/contact-us.html">Contact us</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/pricing-plan.html">Pricing Table</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/faq.html">FAQ's</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/404-error.html">404 Error</a></li>
-                                    <li class="has-sub"><span class="submenu-button"></span><a href="#">Shortcodes</a>
-                                        <ul>
-                                            <li><a href="http://jituchauhan.com/wedding/wedding-new/shortcode-columns.html">Column</a></li>
-                                            <li><a href="http://jituchauhan.com/wedding/wedding-new/shortcode-accordion.html">Accordion</a></li>
-                                            <li><a href="http://jituchauhan.com/wedding/wedding-new/shortcode-tabs.html">Tabs</a></li>
-                                            <li><a href="http://jituchauhan.com/wedding/wedding-new/shortcode-pagination.html">Paginations</a></li>
-                                            <li><a href="http://jituchauhan.com/wedding/wedding-new/shortcode-typography.html">Typography</a></li>
-                                            <li><a href="http://jituchauhan.com/wedding/wedding-new/shortcode-accordion.html">Accordion</a></li>
-                                            <li><a href="http://jituchauhan.com/wedding/wedding-new/shordcods-alerts.html">Alert</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/wedding-guideline.html">Template Guideline</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-sub"><span class="submenu-button"></span><a href="#">Real Weddings</a>
-                                <ul>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/real-wedding-listing.html">Listing</a></li>
-                                    <li><a href="http://jituchauhan.com/wedding/wedding-new/real-wedding-single.html">Real Wedding Single</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div></div>
+    <?php include('./home/appHeader.php')?>
+    
+ 
 
     <div class="tp-page-head">
         <!-- page header -->
@@ -154,21 +32,8 @@
             </div>
         </div>
     </div>
-    <!-- /.page header -->
-    <div class="tp-breadcrumb">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8">
-                    <ol class="breadcrumb">
-                        <li><a href="#">Home</a></li>
-                        <li class="active">About Wedding Vendor</li>
-                    </ol>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    
+
     <div class="main-container">
         <div class="container">
             <div class="row">
@@ -182,14 +47,14 @@
                         </ul>
                     </div>
                 </div>
-                
 
 
+                <!-- Main Content Start Here -->
                 <div class="col-md-9 content-right">
                     <div class="row">
                         <div class="col-md-12">
                             <div class="aboutus" id="aboutus">
-                                <h1>We are Weddings Finder.</h1>
+                                <h1>What the fuck.</h1>
                                 <p class="lead">Welcome to wedding vendor, launch in 2015. We pride our selves on being a trusted friend someone to take on this journey with you making it fun from the start.</p>
                                 <p>We will support you and advise you. We are never short of suggestions or inspiring ideas.Our matchless, which makes finding beautiful wedding venue easier and one less thing for you to worry about.With our inspir blog, suggestions and sensational offers, no one understands weddings better than we do.</p>
                             </div>
@@ -342,6 +207,9 @@
                         </div>
                     </div>
                 </div>
+                <!-- Main Content End Here -->
+
+
             </div>
         </div>
     </div>
@@ -395,7 +263,7 @@
         <!-- Tiny footer -->
         <div class="container">
             <div class="row">
-                <div class="col-md-12">Copyright © 2014. All Rights Reserved</div>
+                <div class="col-md-12">Copyright © 2021. All Rights Reserved</div>
             </div>
         </div>
     </div>
