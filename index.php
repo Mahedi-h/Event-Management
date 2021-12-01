@@ -25,7 +25,7 @@
     <!-- Wedding Locations End -->
     <?php include('./pages/home/happyCouple.php')?>
     <!-- Happy Couple End -->
-    <?php include('./pages/home/about.php')?>
+    <?php include('./pages/home/gallery.php')?>
     <!-- Happy Couple End -->
     <?php include('./pages/home/appFooter.php')?>
     <!-- /. Tiny Footer -->
