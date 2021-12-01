@@ -52,6 +52,9 @@
                             <li class="active">
                                 <a href="#gallery">Gallery</a>
                             </li>
+                            <li class="active">
+                                <a href="<?php echo $base_url; ?>pages/about.php">About Us</a>
+                            </li>
                         </ul>
                     </div>
                 

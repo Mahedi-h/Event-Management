@@ -80,6 +80,82 @@
                 </div>
                 <!-- vendor details -->
             </div>
+
+
+            <div class="col-md-4">
+                <!-- vendor box start-->
+                <div class="vendor-box">
+                    <div class="vendor-image">
+                        <!-- vendor pic -->
+                        <a href="#"><img src="./assets/images/gallary/singer/james.jpg" alt="wedding vendor"
+                                class="img-responsive"></a>
+                        <div class="feature-label"></div>
+                        <div class="favourite-bg"><a href="#" class=""><i class="fa fa-heart"></i></a></div>
+                    </div>
+                    <!-- /.vendor pic -->
+                    <div class="vendor-detail">
+                        <!-- vendor details -->
+                        <div class="caption">
+                            <!-- caption -->
+                            <h2><a href="#" class="title">Live Singer</a></h2>
+                            
+                        </div>
+                        <!-- /.caption -->
+                        
+                    </div>
+                    <!-- vendor details -->
+                </div>
+            </div>
+            <!-- /.vendor box start-->
+            <div class="col-md-4">
+                <!-- vendor box start-->
+                <div class="vendor-box">
+                    <div class="vendor-image">
+                        <!-- vendor pic -->
+                        <a href="#"><img src="./assets/images/gallary/kawali/kawali.jpg" alt="wedding vendor"
+                                class="img-responsive"></a>
+                        <div class="rated-label"></div>
+                        <div class="favourite-bg"><a href="#" class=""><i class="fa fa-heart"></i></a></div>
+                    </div>
+                    <!-- /.vendor pic -->
+                    <div class="vendor-detail">
+                        <!-- vendor details -->
+                        <div class="caption">
+                            <!-- caption -->
+                            <h2><a href="#" class="title"> kawali</a></h2>
+                           
+                        </div>
+                        <!-- /.caption -->
+                        
+                    </div>
+                </div>
+                <!-- vendor details -->
+            </div>
+            <!-- /.vendor box start-->
+            <div class="col-md-4 vendor-box">
+                <!-- vendor box start-->
+                <div class="vendor-image">
+                    <!-- vendor pic -->
+                    <a href="#"><img src="./assets/images/gallary/photography/photography.jpg" alt="wedding vendor" class="img-responsive"></a>
+                    <div class="popular-label"></div>
+                    <div class="favourite-bg"><a href="#" class=""><i class="fa fa-heart"></i></a></div>
+                </div>
+                <!-- /.vendor pic -->
+                <div class="vendor-detail">
+                    <!-- vendor details -->
+                    <div class="caption">
+                        <!-- caption -->
+                        <h2><a href="#" class="title">Photography</a></h2>
+                        
+                    </div>
+                    <!-- /.caption -->
+                    
+                </div>
+                <!-- vendor details -->
+            </div>
+            
+
+
         </div>
     </div>
 </div>

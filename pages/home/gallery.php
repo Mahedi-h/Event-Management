@@ -12,7 +12,7 @@
             <!-- Nav tabs -->
             <ul class="nav nav-tabs" role="tablist">
                 </li>
-                <li role="presentation"><a href="#Holud" aria-controls="messages" role="tab"
+                <li role="presentation" class="active"><a href="#Holud" aria-controls="messages" role="tab"
                         data-toggle="tab">Holud</a></li>
                 <li role="presentation"><a href="#Reception" aria-controls="Reception" role="tab"
                         data-toggle="tab">Reception</a></li>
@@ -206,7 +206,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane fade in active " id="Reception">
+                <div role="tabpanel" class="tab-pane " id="Reception">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -457,7 +457,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane fade in active " id="Photo">
+                <div role="tabpanel" class="tab-pane " id="Photo">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -520,7 +520,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane fade in active " id="Gate">
+                <div role="tabpanel" class="tab-pane " id="Gate">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -617,7 +617,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane fade in active" id="Car">
+                <div role="tabpanel" class="tab-pane" id="Car">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -679,7 +679,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane fade in active" id="Food">
+                <div role="tabpanel" class="tab-pane" id="Food">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -776,7 +776,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane fade in active" id="Lighting">
+                <div role="tabpanel" class="tab-pane" id="Lighting">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -803,7 +803,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane fade in active" id="Package">
+                <div role="tabpanel" class="tab-pane" id="Package">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -830,7 +830,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane fade in active" id="Bed">
+                <div role="tabpanel" class="tab-pane" id="Bed">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -906,7 +906,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane fade in active" id="Birthday">
+                <div role="tabpanel" class="tab-pane" id="Birthday">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -954,7 +954,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane fade in active" id="Videos">
+                <div role="tabpanel" class="tab-pane" id="Videos">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
