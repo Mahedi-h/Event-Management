@@ -14,7 +14,7 @@
                 <div class="vendor-box">
                     <div class="vendor-image">
                         <!-- vendor pic -->
-                        <a href="#"><img src="./assets/images/vendor-1.jpg" alt="wedding vendor"
+                        <a href="#"><img src="./assets/images/gallary/vandor/vandor.png" alt="wedding vendor"
                                 class="img-responsive"></a>
                         <div class="feature-label"></div>
                         <div class="favourite-bg"><a href="#" class=""><i class="fa fa-heart"></i></a></div>
@@ -24,13 +24,11 @@
                         <!-- vendor details -->
                         <div class="caption">
                             <!-- caption -->
-                            <h2><a href="#" class="title">Book Venue Vendor</a></h2>
+                            <h2><a href="https://www.tripadvisor.com/Hotels-g293936-Dhaka_City_Dhaka_Division-Hotels.html" class="title">Book Venue Vendor</a></h2>
                             
                         </div>
                         <!-- /.caption -->
-                        <div class="vendor-price">
-                            <div class="price">1200Tk - 240000tk</div>
-                        </div>
+                        
                     </div>
                     <!-- vendor details -->
                 </div>
@@ -51,13 +49,11 @@
                         <!-- vendor details -->
                         <div class="caption">
                             <!-- caption -->
-                            <h2><a href="#" class="title"> Select a Food Items</a></h2>
+                            <h2><a href="https://www.tripadvisor.com/Restaurants-g293936-Dhaka_City_Dhaka_Division.html" class="title"> Select a Food Items</a></h2>
                            
                         </div>
                         <!-- /.caption -->
-                        <div class="vendor-price">
-                            <div class="price">Per meal  300tk - 1200tk</div>
-                        </div>
+                        
                     </div>
                 </div>
                 <!-- vendor details -->
@@ -76,13 +72,11 @@
                     <!-- vendor details -->
                     <div class="caption">
                         <!-- caption -->
-                        <h2><a href="#" class="title">Choose your dress</a></h2>
+                        <h2><a href="https://www.davidsbridal.com/" class="title">Choose your dress</a></h2>
                         
                     </div>
                     <!-- /.caption -->
-                    <div class="vendor-price">
-                        <div class="price">Per Day 2000tk - 10000tk</div>
-                    </div>
+                    
                 </div>
                 <!-- vendor details -->
             </div>

@@ -49,9 +49,8 @@
                             <li>
                                 <a href="<?php echo $base_url; ?>pages/contact/index.php">Contact</a>
                             </li>
-                            <li class="active"><a href="<?php echo $base_url?>pages/photos.php">Photos</a>
-                            
-                                
+                            <li class="active">
+                                <a href="#gallery">Gallery</a>
                             </li>
                         </ul>
                     </div>
