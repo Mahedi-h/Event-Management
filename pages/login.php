@@ -271,7 +271,7 @@ form button:hover {
                 $('form').fadeOut(500);
                 $('.wrapper').addClass('form-success');
                 setTimeout(() => {
-                    window.location.assign('http://localhost/Event-Management/')
+                    window.location.assign('http://localhost:83/Event-Management/')
                 }, 3000);
             });
     </script>

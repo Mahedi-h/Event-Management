@@ -1,4 +1,4 @@
-<?php $base_url= "http://localhost/Event-Management/"?>
+<?php $base_url= "http://localhost:83/Event-Management/"?>
 
 
       <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

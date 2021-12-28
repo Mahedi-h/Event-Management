@@ -21,6 +21,8 @@
     <!-- Feature Blog End -->
     <?php include('./pages/home/wedding.php')?>
     <!-- Wedding End -->
+    <?php include('./pages/home/features.php')?>
+    <!-- Features Tabs End -->
     <?php include('./pages/home/weddingLocations.php')?>
     <!-- Wedding Locations End -->
     <?php include('./pages/home/happyCouple.php')?>
