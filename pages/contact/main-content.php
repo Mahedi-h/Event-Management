@@ -56,15 +56,15 @@
                         <ul class="listnone">
                             <li class="address">
                                 <h2><i class="fa fa-map-marker"></i>Location</h2>
-                                <p>1228 Hawks Nest Lane Saint Louis, MO 63143</p>
+                                <p>Jatrabari 1236 Dhaka, Dhaka Division, Bangladesh.</p>
                             </li>
                             <li class="email">
                                 <h2><i class="fa fa-envelope"></i>E-Mail</h2>
-                                <p>Info@weddingvendor.com</p>
+                                <p>dreamcreation354@gmail.com</p>
                             </li>
                             <li class="call">
                                 <h2><i class="fa fa-phone"></i>Contact</h2>
-                                <p>+1800-123-4567</p>
+                                <p>+8801968-415164</p>
                             </li>
                         </ul>
                     </div>

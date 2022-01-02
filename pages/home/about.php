@@ -54,7 +54,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="aboutus" id="aboutus">
-                                <h1>Where there is event there we are</h1>
+                                <h1>????</h1>
                                 <p class="lead">Welcome to Dream Creation, launch in 2015. We pride our selves on being a trusted friend someone to take on this journey with you making it fun from the start.</p>
                                 <p>We will support you and advise you. We are never short of suggestions or inspiring ideas.Our matchless, which makes finding beautiful wedding venue easier and one less thing for you to worry about.With our inspir blog, suggestions and sensational offers, no one understands weddings better than we do.</p>
                             </div>
@@ -65,7 +65,16 @@
                                 <h3 class="point">Advice &amp; Guide. | Save your date. | Forever free.</h3>
                                 <img src="./about_files/cycle-graphic.png" alt="" class="graphic img-responsive"> <a href="#" class="btn btn-default btn-lg">Get start today</a> </div>
                         </div>
-                        
+                        <div class="col-md-12 team-section" id="team">
+                            <h1>Our Founder</h1>
+                            <div class="row">
+                                <div class="col-md-4"><img src="./about_files/founder.jpg" alt="" class="img-responsive img-circle"></div>
+                                <div class="col-md-8">
+                                    <h2>Tisha chauhan</h2>
+                                    <p>Nullam pellentesque congue ante ellentesque eget odio faucibus laoreet at pulvinar augueras ornare tincidunt nibh sodales tempus urabitur justo elit laoreet sed elit quis auctor placerat magna.</p>
+                                    <p>Find her on Twitter at <a href="#">@tishachauhan</a></p>
+                                </div>
+                            </div>
                             <div class="row team-section">
                                 <div class="col-md-3 text-center team-block">
                                     <div class="team-pic">
@@ -110,7 +119,88 @@
                             </div>
                         </div>
                     </div>
-                    
+                    <div class="row">
+                        <div class="col-md-12 how-it-works" id="howwork">
+                            <h1>How It Works</h1>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac purus eleifend, eleifend risus feugiat, consectetur extiam fermentum ligula ipsumincipsum dolor sit quis nisi dolor. </p>
+                            <div class="row">
+                                <div class="col-md-6 how-it-desc">
+                                    <h2>Find the Vender</h2>
+                                    <p>Sed id mollis exnteger eu veeger eu vehicula exliquam ultrices quis sem sed rutrumpendisse potentt laoreet faucibusus.</p>
+                                </div>
+                                <div class="col-md-4 text-center how-it-icon"> <img src="./about_files/vendor-1.svg" alt=""> </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-4 text-center how-it-icon"> <img src="./about_files/list.svg" alt=""> </div>
+                                <div class="col-md-6 how-it-desc">
+                                    <h2>Compare Proposal</h2>
+                                    <p>Integer eu vehicula ex. Aliquam ultrices quis sem sed rutrum. Suspendisse potenti. Nam commodo nisi ut laoreet faucibus.</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 how-it-desc">
+                                    <h2>Hire the Right Vender</h2>
+                                    <p>Aliquam ultrices quis sem sed rutrumpendisse potenti. Nam commodo nisi ut laoreet faucibus lacus neque mollis nequeue libero at quam. </p>
+                                </div>
+                                <div class="col-md-4 text-center how-it-icon"> <img src="./about_files/vendor-done.svg" alt=""> </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 history" id="history">
+                            <h1>History</h1>
+                            <p>Cras acmetus sed arcu posuere interdu murabitur nunc sapienravida nec tempus eumn fermentum vitae erat raesent hendrerit ligula urnaonsec teturipsum estibulum justo ligula.</p>
+                        </div>
+                        <div class="col-md-12">
+                            <ul class="timeline">
+                                <li>
+                                    <div class="tl-circ"></div>
+                                    <div class="timeline-panel">
+                                        <div class="history-pic"> <img src="./about_files/post-pic.jpg" class="img-responsive" alt=""> </div>
+                                        <div class="tl-heading">
+                                            <h1>2008</h1>
+                                        </div>
+                                        <div class="tl-body">
+                                            <h3>The Wedding Vandor Begins</h3>
+                                            <p>Nullam ultricies venenatis enim sed sagittis. Donec sodales, eros necerisque suscipitonec vitae elit dictum lectus gravida malesuadaInteger sapien nibh, bibendum a arcu quis.</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="timeline-inverted">
+                                    <div class="tl-circ"></div>
+                                    <div class="timeline-panel">
+                                        <div class="history-pic"> <img src="./about_files/post-pic.jpg" class="img-responsive" alt=""> </div>
+                                        <div class="tl-heading">
+                                            <h1>2012</h1>
+                                        </div>
+                                        <div class="tl-body">
+                                            <h3>The First Office</h3>
+                                            <p>Nullam ultricies venenatis enim sed sagittis. Donec sodales, eros necerisque suscipitonec vitae elit dictum lectus gravida malesuadaInteger sapien nibh, bibendum a arcu quis.</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="tl-circ"></div>
+                                    <div class="timeline-panel">
+                                        <div class="tl-heading">
+                                            <h1>2014</h1>
+                                        </div>
+                                        <div class="tl-body">
+                                            <h3>Expansion </h3>
+                                            <p>Nullam ultricies venenatis enim sed sagittis. Donec sodales, eros necerisque suscipitonec vitae elit dictum lectus gravida malesuadaInteger sapien nibh, bibendum a arcu quis.</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="timeline-inverted">
+                                    <div class="tl-circ"></div>
+                                    <div class="timeline-panel">
+                                        <div class="tl-heading">
+                                            <h1>2015</h1>
+                                        </div>
+                                        <div class="tl-body">
+                                            <h3>Today Wedding Vandor </h3>
+                                            <p>Nullam ultricies venenatis enim sed sagittis. Donec sodales, eros necerisque suscipitonec vitae elit dictum lectus gravida malesuadaInteger sapien nibh, bibendum a arcu quis.</p>
+                                        </div>
                                     </div>
                                 </li>
                             </ul>

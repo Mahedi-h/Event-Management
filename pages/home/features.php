@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-title mb60 text-center">
-                    <h1>Features</h1>                  
+                    <h1>Venues</h1>                  
                 </div>
             </div>
         </div>

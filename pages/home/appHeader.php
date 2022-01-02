@@ -16,7 +16,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 top-message">
-                    <p>Welcome to Wedding Vendor.</p>
+                    <p>WELCOME TO Dream Creation</p>
                 </div>
                 <div class="col-md-6 top-links">
                     <ul class="listnone">
