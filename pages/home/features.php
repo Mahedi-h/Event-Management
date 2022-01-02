@@ -1,4 +1,4 @@
-<section id="gallery" class="section-space80">
+<section id="Venues" class="section-space80">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -12,32 +12,32 @@
             <!-- Nav tabs -->
             <ul class="nav nav-tabs" role="tablist">
                 </li>
-                <li role="presentation" class="active"><a href="#Holud" aria-controls="messages" role="tab"
+                <li role="presentation" class="active"><a href="#Holud2" aria-controls="messages" role="tab"
                         data-toggle="tab">Holud</a></li>
-                <li role="presentation"><a href="#Reception" aria-controls="Reception" role="tab"
+                <li role="presentation"><a href="#Reception2" aria-controls="Reception2" role="tab"
                         data-toggle="tab">Reception</a></li>
-                <li role="presentation"><a href="#Photo" aria-controls="Photo" role="tab"
+                <li role="presentation"><a href="#Photo2" aria-controls="Photo2" role="tab"
                         data-toggle="tab">Photo Bhot</a></li>
-                <li role="presentation"><a href="#Gate" aria-controls="Gate" role="tab"
+                <li role="presentation"><a href="#Gate2" aria-controls="Gate2" role="tab"
                         data-toggle="tab">Entry Gate</a></li>
-                <li role="presentation"><a href="#Bed" aria-controls="Bed" role="tab"
+                <li role="presentation"><a href="#Bed2" aria-controls="Bed2" role="tab"
                         data-toggle="tab">Bed</a></li>
-                <li role="presentation"><a href="#Car" aria-controls="Car" role="tab"
+                <li role="presentation"><a href="#Car2" aria-controls="Car2" role="tab"
                         data-toggle="tab">Car</a></li>
                 <li role="presentation"><a href="#Birthday" aria-controls="Birthday" role="tab"
                         data-toggle="tab">Birthday & Annyversary</a></li>
-                <li role="presentation"><a href="#Food" aria-controls="Food" role="tab"
+                <li role="presentation"><a href="#Food2" aria-controls="Food2" role="tab"
                         data-toggle="tab">Food</a></li>
-                <li role="presentation"><a href="#Lighting" aria-controls="Lighting" role="tab"
+                <li role="presentation"><a href="#Lighting2" aria-controls="Lighting2" role="tab"
                         data-toggle="tab">Lighting</a></li>
-                <li role="presentation"><a href="#Package" aria-controls="Package" role="tab"
+                <li role="presentation"><a href="#Package2" aria-controls="Package2" role="tab"
                         data-toggle="tab">Package</a></li>
-                <li role="presentation"><a href="#Videos" aria-controls="Videos" role="tab"
+                <li role="presentation"><a href="#Videos2" aria-controls="Videos2" role="tab"
                         data-toggle="tab">Videos</a></li>      
             </ul>
 
             <div class="tab-content">
-                <div role="tabpanel" class="tab-pane fade in active" id="Holud">
+                <div role="tabpanel" class="tab-pane fade in active" id="Holud2">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -206,7 +206,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane " id="Reception">
+                <div role="tabpanel" class="tab-pane " id="Reception2">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -457,7 +457,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane " id="Photo">
+                <div role="tabpanel" class="tab-pane " id="Photo2">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -520,7 +520,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane " id="Gate">
+                <div role="tabpanel" class="tab-pane " id="Gate2">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -617,7 +617,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane" id="Car">
+                <div role="tabpanel" class="tab-pane" id="Car2">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -679,7 +679,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane" id="Food">
+                <div role="tabpanel" class="tab-pane" id="Food2">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -776,7 +776,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane" id="Lighting">
+                <div role="tabpanel" class="tab-pane" id="Lighting2">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -803,7 +803,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane" id="Package">
+                <div role="tabpanel" class="tab-pane" id="Package2">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -830,7 +830,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane" id="Bed">
+                <div role="tabpanel" class="tab-pane" id="Bed2">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
@@ -954,7 +954,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane" id="Videos">
+                <div role="tabpanel" class="tab-pane" id="Videos2">
                     <div class="row section-space20">
                         <div class="col-md-4 location-block">
                             <!-- location block -->
