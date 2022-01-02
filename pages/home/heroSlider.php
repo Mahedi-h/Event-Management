@@ -3,7 +3,7 @@
         <div id="slider" class="owl-carousel owl-theme slider">
             <div class="item"><img src="./assets/images/hero-image.jpg" alt="Wedding couple just married"></div>
             <div class="item"><img src="./assets/images/hero-image-2.jpg" alt="Wedding couple just married"></div>
-            <div class="item"><img src="./assets/images/hero-image-3.png" alt="Wedding couple just married"></div>
+            <div class="item"><img src="./assets/images/hero-image-3.jpg" alt="Wedding couple just married"></div>
         </div>
         <div class="find-section">
             <!-- Find search section-->

@@ -16,7 +16,6 @@
                         <!-- feature block -->
                         <div class="feature-icon"><img src="./assets/images/vendor.svg" alt=""></div>
                         <h2>Find local vendor</h2>
-                        <p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.</p>
                     </div>
                 </div>
                 <!-- /.feature block -->
@@ -25,7 +24,6 @@
                         <!-- feature block -->
                         <div class="feature-icon"><img src="./assets/images/mail.svg" alt=""></div>
                         <h2>Contact vendor</h2>
-                        <p>Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
                     </div>
                 </div>
                 <!-- /.feature block -->
@@ -34,7 +32,6 @@
                         <!-- feature block -->
                         <div class="feature-icon"><img src="./assets/images/couple.svg" alt=""></div>
                         <h2>Save Your Date</h2>
-                        <p>The generated Lorem Ipsum is therefore always free from repetition injected humour or non-characteristic words etc.</p>
                     </div>
                 </div>
                 <!-- /.feature block -->

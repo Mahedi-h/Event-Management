@@ -967,7 +967,7 @@
                                         <!-- <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4"> -->
                                         <source src="./assets/images/gallary/videos/video1.mp4" type="video/mp4">
                                         
-                                        Your browser does not support HTML video.
+                                       
                                     </video>
 
                                 <a href="#" class="venue-lable">
@@ -975,6 +975,189 @@
                                 </a> 
                             </div>
                         </div>
+
+                        <div class="col-md-4 location-block">
+                            <!-- location block -->
+                            <div class="vendor-image">
+                                
+                                    <!-- <video controls>
+                                        <source src="./assets/images/gallary/video/video1.mp4" type="video/mp4"/>
+                                    </video>     -->
+                                    <video controls>
+                                        <!-- <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4"> -->
+                                        <source src="./assets/images/gallary/videos/video2.mp4" type="video/mp4">
+                                        
+                                       
+                                    </video>
+
+                                <a href="#" class="venue-lable">
+                                    <span class="label label-default">video2.mp4</span>
+                                </a> 
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 location-block">
+                            <!-- location block -->
+                            <div class="vendor-image">
+                                
+                                    <!-- <video controls>
+                                        <source src="./assets/images/gallary/video/video1.mp4" type="video/mp4"/>
+                                    </video>     -->
+                                    <video controls>
+                                        <!-- <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4"> -->
+                                        <source src="./assets/images/gallary/videos/video3.mp4" type="video/mp4">
+                                        
+                                       
+                                    </video>
+
+                                <a href="#" class="venue-lable">
+                                    <span class="label label-default">video3.mp4</span>
+                                </a> 
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 location-block">
+                            <!-- location block -->
+                            <div class="vendor-image">
+                                
+                                    <!-- <video controls>
+                                        <source src="./assets/images/gallary/video/video1.mp4" type="video/mp4"/>
+                                    </video>     -->
+                                    <video controls>
+                                        <!-- <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4"> -->
+                                        <source src="./assets/images/gallary/videos/video4.mp4" type="video/mp4">
+                                        
+                                       
+                                    </video>
+
+                                <a href="#" class="venue-lable">
+                                    <span class="label label-default">video4.mp4</span>
+                                </a> 
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 location-block">
+                            <!-- location block -->
+                            <div class="vendor-image">
+                                
+                                    <!-- <video controls>
+                                        <source src="./assets/images/gallary/video/video1.mp4" type="video/mp4"/>
+                                    </video>     -->
+                                    <video controls>
+                                        <!-- <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4"> -->
+                                        <source src="./assets/images/gallary/videos/video5.mp4" type="video/mp4">
+                                        
+                                       
+                                    </video>
+
+                                <a href="#" class="venue-lable">
+                                    <span class="label label-default">video5.mp4</span>
+                                </a> 
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 location-block">
+                            <!-- location block -->
+                            <div class="vendor-image">
+                                
+                                    <!-- <video controls>
+                                        <source src="./assets/images/gallary/video/video1.mp4" type="video/mp4"/>
+                                    </video>     -->
+                                    <video controls>
+                                        <!-- <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4"> -->
+                                        <source src="./assets/images/gallary/videos/video6.mp4" type="video/mp4">
+                                        
+                                       
+                                    </video>
+
+                                <a href="#" class="venue-lable">
+                                    <span class="label label-default">video6.mp4</span>
+                                </a> 
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 location-block">
+                            <!-- location block -->
+                            <div class="vendor-image">
+                                
+                                    <!-- <video controls>
+                                        <source src="./assets/images/gallary/video/video1.mp4" type="video/mp4"/>
+                                    </video>     -->
+                                    <video controls>
+                                        <!-- <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4"> -->
+                                        <source src="./assets/images/gallary/videos/video7.mp4" type="video/mp4">
+                                        
+                                       
+                                    </video>
+
+                                <a href="#" class="venue-lable">
+                                    <span class="label label-default">video7.mp4</span>
+                                </a> 
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 location-block">
+                            <!-- location block -->
+                            <div class="vendor-image">
+                                
+                                    <!-- <video controls>
+                                        <source src="./assets/images/gallary/video/video1.mp4" type="video/mp4"/>
+                                    </video>     -->
+                                    <video controls>
+                                        <!-- <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4"> -->
+                                        <source src="./assets/images/gallary/videos/video8.mp4" type="video/mp4">
+                                        
+                                       
+                                    </video>
+
+                                <a href="#" class="venue-lable">
+                                    <span class="label label-default">video8.mp4</span>
+                                </a> 
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 location-block">
+                            <!-- location block -->
+                            <div class="vendor-image">
+                                
+                                    <!-- <video controls>
+                                        <source src="./assets/images/gallary/video/video1.mp4" type="video/mp4"/>
+                                    </video>     -->
+                                    <video controls>
+                                        <!-- <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4"> -->
+                                        <source src="./assets/images/gallary/videos/video9.mp4" type="video/mp4">
+                                        
+                                       
+                                    </video>
+
+                                <a href="#" class="venue-lable">
+                                    <span class="label label-default">video9.mp4</span>
+                                </a> 
+                            </div>
+                        </div>
+
+                        
+
+                        <div class="col-md-4 location-block">
+                            <!-- location block -->
+                            <div class="vendor-image">
+                                
+                                    <!-- <video controls>
+                                        <source src="./assets/images/gallary/video/video1.mp4" type="video/mp4"/>
+                                    </video>     -->
+                                    <video controls>
+                                        <!-- <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4"> -->
+                                        <source src="./assets/images/gallary/videos/video10.mp4" type="video/mp4">
+                                        
+                                       
+                                    </video>
+
+                                <a href="#" class="venue-lable">
+                                    <span class="label label-default">video10.mp4</span>
+                                </a> 
+                            </div>
+                        </div>
+
 
                     </div>
                 </div>

@@ -50,7 +50,7 @@
                                 <a href="<?php echo $base_url; ?>pages/contact/index.php">Contact</a>
                             </li>
                             <li class="active">
-                                <a href="#gallery">Gallery</a>
+                                <a href="<?php echo $base_url?>#gallery">Gallery</a>
                             </li>
                             <li class="active">
                                 <a href="<?php echo $base_url; ?>pages/about.php">About Us</a>

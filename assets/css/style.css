@@ -832,8 +832,18 @@ ul.sidenav li { }
 .icon-light { color: #c4c1b7; }
 .icon-primary { color: #f48f01; }
 .icon-white { color: #fff; }
-.icon-circle { border: 2px solid #fff; border-radius: 50%; width: 100px; height: 100px; margin: 0 auto 30px auto; background-color: rgba(255, 255, 255, .1); }
-{ }
+.icon-circle { 
+  border: 2px solid #fff;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 30px auto;
+  background-color: rgba(255, 255, 255, .1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   }
+
 .badge { display: inline-block; min-width: 10px; padding: 3px 7px; font-size: 13px; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: middle; background-color: #777; border-radius: 2px; }
 .badge-default { background-color: var(--primary-color); color: #fff; }
 .badge-primary { background-color: #f48f01; color: #fff; }
