@@ -1,279 +1,169 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login Screen</title>
-    <style>
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 200;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v18/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdr.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 300;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v18/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf) format('truetype');
-}
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-weight: 300;
-}
-body {
-  font-family: 'Source Sans Pro', sans-serif;
-  color: white;
-  font-weight: 300;
-}
-body ::-webkit-input-placeholder {
-  /* WebKit browsers */
-  font-family: 'Source Sans Pro', sans-serif;
-  color: white;
-  font-weight: 300;
-}
-body :-moz-placeholder {
-  /* Mozilla Firefox 4 to 18 */
-  font-family: 'Source Sans Pro', sans-serif;
-  color: white;
-  opacity: 1;
-  font-weight: 300;
-}
-body ::-moz-placeholder {
-  /* Mozilla Firefox 19+ */
-  font-family: 'Source Sans Pro', sans-serif;
-  color: white;
-  opacity: 1;
-  font-weight: 300;
-}
-body :-ms-input-placeholder {
-  /* Internet Explorer 10+ */
-  font-family: 'Source Sans Pro', sans-serif;
-  color: white;
-  font-weight: 300;
-}
-.wrapper {
-  background: #50a3a2;
-  background: linear-gradient(to bottom right, #50a3a2 0%, #53e3a6 100%);
- position: relative;
-  width: 100%;
-  height: 100vh;
-  overflow: hidden;
-}
-.wrapper.form-success .container h1 {
-  transform: translateY(85px);
-}
-.container {
-  max-width: 600px;
-  margin: 0 auto;
-  padding: 80px 0;
-  height: 400px;
-  text-align: center;
-}
-.container h1 {
-  font-size: 40px;
-  transition-duration: 1s;
-  transition-timing-function: ease-in-put;
-  font-weight: 200;
-}
-form {
-  padding: 20px 0;
-  position: relative;
-  z-index: 2;
-}
-form input {
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-  outline: 0;
-  border: 1px solid rgba(255, 255, 255, 0.4);
-  background-color: rgba(255, 255, 255, 0.2);
-  width: 250px;
-  border-radius: 3px;
-  padding: 10px 15px;
-  margin: 0 auto 10px auto;
-  display: block;
-  text-align: center;
-  font-size: 18px;
-  color: white;
-  transition-duration: 0.25s;
-  font-weight: 300;
-}
-form input:hover {
-  background-color: rgba(255, 255, 255, 0.4);
-}
-form input:focus {
-  background-color: white;
-  width: 300px;
-  color: #53e3a6;
-}
-form button {
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-  outline: 0;
-  background-color: white;
-  border: 0;
-  padding: 10px 15px;
-  color: #53e3a6;
-  border-radius: 3px;
-  width: 250px;
-  cursor: pointer;
-  font-size: 18px;
-  transition-duration: 0.25s;
-}
-form button:hover {
-  background-color: #f5f7f9;
-}
-.bg-bubbles {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-}
-.bg-bubbles li {
-  position: absolute;
-  list-style: none;
-  display: block;
-  width: 40px;
-  height: 40px;
-  background-color: rgba(255, 255, 255, 0.15);
-  bottom: -160px;
-  -webkit-animation: square 25s infinite;
-  animation: square 25s infinite;
-  transition-timing-function: linear;
-}
-.bg-bubbles li:nth-child(1) {
-  left: 10%;
-}
-.bg-bubbles li:nth-child(2) {
-  left: 20%;
-  width: 80px;
-  height: 80px;
-  -webkit-animation-delay: 2s;
-          animation-delay: 2s;
-  -webkit-animation-duration: 17s;
-          animation-duration: 17s;
-}
-.bg-bubbles li:nth-child(3) {
-  left: 25%;
-  -webkit-animation-delay: 4s;
-          animation-delay: 4s;
-}
-.bg-bubbles li:nth-child(4) {
-  left: 40%;
-  width: 60px;
-  height: 60px;
-  -webkit-animation-duration: 22s;
-          animation-duration: 22s;
-  background-color: rgba(255, 255, 255, 0.25);
-}
-.bg-bubbles li:nth-child(5) {
-  left: 70%;
-}
-.bg-bubbles li:nth-child(6) {
-  left: 80%;
-  width: 120px;
-  height: 120px;
-  -webkit-animation-delay: 3s;
-          animation-delay: 3s;
-  background-color: rgba(255, 255, 255, 0.2);
-}
-.bg-bubbles li:nth-child(7) {
-  left: 32%;
-  width: 160px;
-  height: 160px;
-  -webkit-animation-delay: 7s;
-          animation-delay: 7s;
-}
-.bg-bubbles li:nth-child(8) {
-  left: 55%;
-  width: 20px;
-  height: 20px;
-  -webkit-animation-delay: 15s;
-          animation-delay: 15s;
-  -webkit-animation-duration: 40s;
-          animation-duration: 40s;
-}
-.bg-bubbles li:nth-child(9) {
-  left: 25%;
-  width: 10px;
-  height: 10px;
-  -webkit-animation-delay: 2s;
-          animation-delay: 2s;
-  -webkit-animation-duration: 40s;
-          animation-duration: 40s;
-  background-color: rgba(255, 255, 255, 0.3);
-}
-.bg-bubbles li:nth-child(10) {
-  left: 90%;
-  width: 160px;
-  height: 160px;
-  -webkit-animation-delay: 11s;
-          animation-delay: 11s;
-}
-@-webkit-keyframes square {
-  0% {
-    transform: translateY(0);
-  }
-  100% {
-    transform: translateY(-700px) rotate(600deg);
-  }
-}
-@keyframes square {
-  0% {
-    transform: translateY(0);
-  }
-  100% {
-    transform: translateY(-700px) rotate(600deg);
-  }
-}
-
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Are you local weddding vendor provider & looking for wedding vendor website template. Wedding Vendor Responsive Website Template suitable for wedding vendor supplier, wedding agency, wedding company, wedding events etc.. ">
+    <meta name="keywords" content="Wedding Vendor, wedding template, wedding website template, events, wedding party, wedding cake, wedding dress, wedding couple, couple, Wedding Venues Website Template">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Login your account</title>
+   <?php include('../components/JsAndCss/allCss.php')?>
 </head>
-<body>
 
-    <div class="wrapper">
-        <div class="container">
-            <h1>Welcome</h1>
-            
-            <form class="form">
-                <input type="text" placeholder="Username">
-                <input type="password" placeholder="Password">
-                <button type="submit" id="login-button">Login</button>
-            </form>
+<body cz-shortcut-listen="true">
+ 
+
+  <?php include('./home/appHeader.php')?>
+
+
+  <div class="tp-page-head">
+    <!-- page header -->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-offset-2 col-md-8">
+          <div class="page-header text-center">
+            <div class="icon-circle">
+              <i class="icon icon-size-60 icon-padlock-1 icon-white"></i>
+            </div>
+            <h1>Welcome back to your account</h1>
+            <p>We're happy to have you back.</p>
+          </div>
         </div>
-        
-        <ul class="bg-bubbles">
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-        </ul>
+      </div>
+    </div>
+  </div>
+  <!-- /.page header -->
+  <div class="tp-breadcrumb">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <ol class="breadcrumb">
+            <li><a href="#">Home</a></li>
+            <li class="active">Login Page</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="main-container">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 st-tabs">
+          <!-- Nav tabs -->
+          <div class="well-box">
+            <h3>Login</h3>
+            <form>
+              <!-- Text input-->
+              <div class="form-group">
+                <label class="control-label" for="email">E-mail<span class="required">*</span></label>
+                <input id="email" name="email" type="text" placeholder="E-Mail" class="form-control input-md"
+                  required="">
+              </div>
+              <!-- Text input-->
+              <div class="form-group">
+                <label class="control-label" for="password">Password<span class="required">*</span></label>
+                <input id="password" name="password" type="text" placeholder="Password" class="form-control input-md"
+                  required="">
+              </div>
+              <!-- Button -->
+              <div class="form-group">
+                <button id="submit" name="submit" class="btn btn-primary btn-lg">Login</button>
+                <a href="/wedding/wedding-new/forget-password.html" class="pull-right">
+                  <small>Forgot Password ?</small></a>
+              </div>
+            </form>
+          </div>
+          <div class="well-box social-login"> <a href="#"
+              class="btn facebook-btn"><i class="fa fa-facebook-square"></i>Facebook</a> <a
+              href="#" class="btn twitter-btn"><i
+                class="fa fa-twitter-square"></i>Twitter</a> <a
+              href="#" class="btn google-btn"><i
+                class="fa fa-google-plus-square"></i>Google+</a> </div>
+        </div>
+        <div class="col-md-6 st-tabs">
+          <!-- Nav tabs -->
+          <div class="well-box">
+            <h3>Register</h3>
+            <form>
+              <div class="row">
+                <div class="col-sm-12 col-md-6">
+                  <div class="form-group">
+                    <label class="control-label" for="first_name">First Name<span class="required">*</span></label>
+                    <input id="first_name" name="first_name" type="text" placeholder="First Name" class="form-control input-md"
+                      required="">
+                  </div>
+                </div>
+                <div class="col-sm-12 col-md-6">
+                  <div class="form-group">
+                      <label class="control-label" for="last_name">Last Name<span class="required">*</span></label>
+                      <input id="last_name" name="last_name" type="text" placeholder="Last Name" class="form-control input-md"
+                        required="">
+                    </div>
+                </div>
+              </div>
+              <!-- Text input-->
+              <div class="form-group">
+                <label class="control-label" for="email">E-mail<span class="required">*</span></label>
+                <input id="email" name="email" type="text" placeholder="E-Mail" class="form-control input-md"
+                  required="">
+              </div>
+
+              <div class="row">
+                <div class="col-sm-12 col-md-6">
+                    <div class="form-group">
+                      <input class="form-check-input" type="radio" name="gender" id="male" value="Male" checked>
+                      <label class="form-check-label" for="male">
+                        Male
+                      </label>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-6">
+                  <div class="form-group">
+                      <input class="form-check-input" type="radio" name="gender" id="female" value="FeMale" checked>
+                      <label class="form-check-label" for="female">
+                        Female
+                      </label>
+                    </div>
+                </div>
+              </div>
+              <!-- Text input-->
+              <div class="form-group">
+                <label class="control-label" for="password">Password<span class="required">*</span></label>
+                <input id="password" name="password" type="text" placeholder="Password" class="form-control input-md"
+                  required="">
+              </div>
+              <!-- Button -->
+              <div class="form-group">
+                <button id="submit" name="submit" class="btn btn-primary btn-lg">Sign up</button>
+                <a href="/wedding/wedding-new/forget-password.html" class="pull-right">
+                  <small>Forgot Password ?</small></a>
+              </div>
+            </form>
+          </div>
+          <div class="well-box social-login"> <a href="#"
+              class="btn facebook-btn"><i class="fa fa-facebook-square"></i>Facebook</a> <a
+              href="#" class="btn twitter-btn"><i
+                class="fa fa-twitter-square"></i>Twitter</a> <a
+              href="#" class="btn google-btn"><i
+                class="fa fa-google-plus-square"></i>Google+</a> </div>
+        </div>
+      </div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script>
-            $("#login-button").click(function(event){
-                    event.preventDefault();
-                
-                $('form').fadeOut(500);
-                $('.wrapper').addClass('form-success');
-                setTimeout(() => {
-                    window.location.assign('http://localhost:83/Event-Management/')
-                }, 3000);
-            });
-    </script>
+    
+    <!-- /.Footer -->
+   
+    <?php include('./home/appFooter.php')?>
+    
+
+  </div>
+
+
+  <?php include('../components/JsAndCss/allJs.php')?>
+  
 </body>
+
 </html>
