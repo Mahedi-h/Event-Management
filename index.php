@@ -19,7 +19,7 @@
     <!-- slider end-->
     <?php include('./pages/home/feature.php')?>
     <!-- Feature Blog End -->
-    <?php include('./pages/home/wedding.php')?>
+    <?php //include('./pages/home/wedding.php')?>
     <!-- Wedding End -->
     <?php include('./pages/home/features.php')?>
     <!-- Features Tabs End -->

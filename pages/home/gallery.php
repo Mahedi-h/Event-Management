@@ -26,8 +26,6 @@
                         data-toggle="tab">Car</a></li>
                 <li role="presentation"><a href="#Birthday" aria-controls="Birthday" role="tab"
                         data-toggle="tab">Birthday & Annyversary</a></li>
-                <li role="presentation"><a href="#Food" aria-controls="Food" role="tab"
-                        data-toggle="tab">Food</a></li>
                 <li role="presentation"><a href="#Lighting" aria-controls="Lighting" role="tab"
                         data-toggle="tab">Lighting</a></li>
                 <li role="presentation"><a href="#Package" aria-controls="Package" role="tab"
@@ -679,102 +677,7 @@
                     </div>
                 </div>
 
-                <div role="tabpanel" class="tab-pane" id="Food">
-                    <div class="row section-space20">
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (1).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (1)</span></a> </div>
-                        </div>
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (2).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (2)</span></a> </div>
-                        </div>
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (3).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (3)</span></a> </div>
-                        </div>
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (4).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (4)</span></a> </div>
-                        </div>
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (5).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (5)</span></a> </div>
-                        </div>
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (6).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (6)</span></a> </div>
-                        </div>
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (7).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (7)</span></a> </div>
-                        </div>
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (8).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (8)</span></a> </div>
-                        </div>
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (9).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (9)</span></a> </div>
-                        </div>
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (10).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (10)</span></a> </div>
-                        </div>
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (11).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (11)</span></a> </div>
-                        </div>
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (12).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (12)</span></a> </div>
-                        </div>
-                        <div class="col-md-4 location-block">
-                            <!-- location block -->
-                            <div class="vendor-image">
-                                <a href="#"><img src="./assets/images/gallary/foods/food (13).jpg" alt=""
-                                        class="img-responsive"></a> <a href="#" class="venue-lable"><span
-                                        class="label label-default">food (13)</span></a> </div>
-                        </div>
-
-                    </div>
-                </div>
+                
 
                 <div role="tabpanel" class="tab-pane" id="Lighting">
                     <div class="row section-space20">

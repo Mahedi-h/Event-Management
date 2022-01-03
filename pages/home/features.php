@@ -1,9 +1,9 @@
-<section id="Featured1" class="section-space80">
+<section id="Featured" class="section-space80">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="section-title mb60 text-center">
-                    <h1>Featured1</h1> 
+                    <h1>Featured</h1> 
                     <p>We provide High quality Dreeses, foods and venue.We can make your Dream into Reality_Book your Special occasions with Elegant Event Solutions to get Elegant & Premium Decor</p>                 
                 </div>
             </div>

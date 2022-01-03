@@ -20,7 +20,7 @@
                 </div>
                 <div class="col-md-6 top-links">
                     <ul class="listnone">
-                        <li><a href="faq.html"> Help </a></li>
+                        <li><a href="<?php echo $base_url; ?>pages/contact/index.php"> Help </a></li>
                         
                         <li><a href="<?php echo $base_url?>pages/login.php">Log in</a></li>
                         <li>

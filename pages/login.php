@@ -1,3 +1,5 @@
+<?php $base_url= "http://localhost:83/Event-Management/"?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,10 +27,10 @@
         <div class="col-md-offset-2 col-md-8">
           <div class="page-header text-center">
             <div class="icon-circle">
-              <i class="icon icon-size-60 icon-padlock-1 icon-white"></i>
+              <img width="60" height="60" style="object-fit: cover;" src="<?php echo $base_url;?>assets/images/logo.png" alt="">
             </div>
-            <h1>Welcome back to your account</h1>
-            <p>We're happy to have you back.</p>
+            <h1>Welcome To Dream Creation</h1>
+            <p>We're happy to have you</p>
           </div>
         </div>
       </div>

@@ -22,7 +22,7 @@
                 <div class="col-md-4">
                     <div class="feature-block feature-center">
                         <!-- feature block -->
-                        <div class="feature-icon"><img src="./assets/images/mail.svg" alt=""></div>
+                        <div class="feature-icon"><img width="111" src="./assets/images/contact.png" alt=""></div>
                         <h2>Contact vendor</h2>
                     </div>
                 </div>
